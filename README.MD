@@ -23,7 +23,8 @@ I am a full stack web developer from Indonesia, currently living in Sumedang. I 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugraha-a&layout=compact)](https://github.com/nugraha-a/github-readme-stats)
 
-## 🔎 Find me here on the interwebs <span id="find-me">&nbsp;</span>
+## 🔎 Find me here on the interwebs
+<span id="find-me">&nbsp;</span>
 [<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/nugraha.ga)
 [<img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:alditiya.nugraha1@gmail.com)
 <!--
