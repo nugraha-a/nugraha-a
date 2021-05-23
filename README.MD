@@ -21,7 +21,7 @@ I am a full stack web developer from Indonesia, currently living in Sumedang. I 
 
 [![Alditiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nugraha-a)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugraha-a?style=compact)](https://github.com/nugraha-a/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugraha-a&layout=compact)](https://github.com/nugraha-a/github-readme-stats)
 
 ## 🔎 Find me here on the interwebs
 <span id="find-me">&nbsp;</span>
