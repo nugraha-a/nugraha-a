@@ -3,7 +3,7 @@
 I am a full stack web developer from Indonesia, currently living in Sumedang. I work anywhere place as freelance, I help Companies or Personal to fulfill their desires
 
 - 🔭 Working as a **Freelance Fullstack Developer** with **Laravel**
-- 🌐 Open for freelance/part-time/project **opportunities**. Contact me on [here](#find-me)!
+- 🌐 Open for freelance/part-time/project **opportunities**. Contact me on bellow!
 - 🌱 and still learning **Javascript** too
 
 ### I use these everyday 🏆gold stuff
