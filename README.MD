@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Alditiya
+## 👋 Hello, I'm Nugraha
 
 I am a full stack web developer from Indonesia, currently living in Sumedang. I work anywhere place as freelance, I help Companies or Personal to fulfill their desires
 
