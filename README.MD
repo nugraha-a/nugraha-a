@@ -4,7 +4,6 @@ From Indonesia, currently living in Sumedang. I work anywhere place as freelance
 
 - 🔭 Currently Working as a **Fullstack Web Developer**
 - 🌐 Open for freelance/part-time/project **opportunities**. Contact me on bellow!
-- 🌱 and still learning **Javascript** too
 
 ### Fav stack used for now
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/><img alt="REACT.JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
