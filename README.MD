@@ -1,16 +1,12 @@
 ## 👋 Hello, I'm Nugraha
 
-I am a full stack web developer from Indonesia, currently living in Sumedang. I work anywhere place as freelance, I help Companies or Personal to fulfill their desires
+From Indonesia, currently living in Sumedang. I work anywhere place as freelance, I help Companies or Personal to fulfill their desires
 
-- 🔭 Working as a **Freelance Fullstack Developer** with **Laravel**
+- 🔭 Currently Working as a **Fullstack Web Developer**
 - 🌐 Open for freelance/part-time/project **opportunities**. Contact me on bellow!
 - 🌱 and still learning **Javascript** too
 
-### I use these everyday 🏆gold stuff
-
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/><img alt="MARIADB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
-### And currently learning this 😎cool stack
+### Fav stack used for now
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/><img alt="REACT.JS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 ### Other stacks and tools
