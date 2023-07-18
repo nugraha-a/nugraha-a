@@ -17,9 +17,9 @@ From Indonesia, work anywhere place as freelance, I help Companies or Personal t
 
 ## ⚡ Github stats
 
-[![Alditiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nugraha-a)](https://github.com/anuraghazra/github-readme-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nugraha-a?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugraha-a&layout=compact)](https://github.com/nugraha-a/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugraha-a&layout=compact&theme=transparent)](https://github.com/nugraha-a/github-readme-stats)
 
 ## 🔎 Find me here on the interwebs
 <span id="find-me">&nbsp;</span>
