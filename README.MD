@@ -17,7 +17,7 @@ From Indonesia, work anywhere place as freelance, I help Companies or Personal t
 
 ## ⚡ Github stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nugraha-a?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nugraha-a?cardType=github&theme=prussian&preferLogin=true)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugraha-a&layout=compact&theme=prussian)](https://github.com/nugraha-a/github-readme-stats)
 
