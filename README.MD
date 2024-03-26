@@ -3,7 +3,7 @@
 
 From Indonesia, work anywhere place as freelance, I help Companies or Personal to fulfill their desires
 
-- 🔭 Currently Working as a **Fullstack Web Developer**
+- 🔭 Currently Working Full-Time as a **Fullstack Web Developer**
 - 🌐 Open for freelance/part-time/project **opportunities**. Contact me on bellow!
 
 ### Fav stack used for now
