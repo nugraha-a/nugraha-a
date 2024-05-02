@@ -16,10 +16,12 @@ From Indonesia, work anywhere place as freelance, I help Companies or Personal t
 
 
 ## ⚡ Github stats
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nugraha-a?cardType=github&theme=prussian&preferLogin=true)](https://git.io/awesome-stats-card)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nugraha-a&layout=compact&theme=prussian)](https://github.com/nugraha-a/github-readme-stats)
+[![My Awesome Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nugraha-a&theme=dark)]
+[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nugraha&theme=dark)]
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nugraha-a&theme=dark&utcOffset=+7)]
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nugraha-a&theme=dark)]
+[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nugraha-a&theme=dark)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nugraha-a&theme=dark)]
 
 ## 🔎 Find me here on the interwebs
 <span id="find-me">&nbsp;</span>
