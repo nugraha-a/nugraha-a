@@ -16,15 +16,11 @@ From Indonesia, work anywhere place as freelance, I help Companies or Personal t
 
 
 ## ⚡ Github stats
-[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nugraha-a&theme=dark)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nugraha-a&theme=transparent)
 
-[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nugraha&theme=dark)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nugraha-a&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nugraha-a&theme=transparent&utcOffset=7)
 
-[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nugraha-a&theme=dark&utcOffset=+7)](https://git.io/streak-stats)
-
-[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nugraha-a&theme=dark)](https://git.io/streak-stats)
-
-[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nugraha-a&theme=dark)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nugraha-a&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nugraha-a&theme=transparent)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nugraha-a&theme=dark)](https://git.io/streak-stats)
 
