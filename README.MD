@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/nugraha-a/nugraha-a/master/assets/github-header-image.png)
+![banner](https://raw.githubusercontent.com/nugraha-a/nugraha-a/master/assets/github-header-image.png?v=1.0.1)
 ## 👋 Hello, I'm Nugraha
 
 From Indonesia, work anywhere place as freelance, I help Companies or Personal to fulfill their desires
