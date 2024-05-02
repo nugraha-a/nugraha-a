@@ -24,7 +24,7 @@ From Indonesia, work anywhere place as freelance, I help Companies or Personal t
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nugraha-a&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nugraha-a&theme=transparent)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nugraha-a&theme=transparent&border_radius=4.2&mode=weekly&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nugraha-a&theme=transparent&hide_border=true&mode=weekly&card_width=500)](https://git.io/streak-stats)
 </div>
 
 ## 🔎 Find me here on the interwebs
