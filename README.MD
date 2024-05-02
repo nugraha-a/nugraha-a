@@ -16,12 +16,12 @@ From Indonesia, work anywhere place as freelance, I help Companies or Personal t
 
 
 ## ⚡ Github stats
-(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nugraha-a&theme=dark)
-(http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nugraha&theme=dark)
-(http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nugraha-a&theme=dark&utcOffset=+7)
-(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nugraha-a&theme=dark)
-(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nugraha-a&theme=dark)
-(https://streak-stats.demolab.com/?user=nugraha-a&theme=dark)
+[(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nugraha-a&theme=dark)]
+[(http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nugraha&theme=dark)]
+[(http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nugraha-a&theme=dark&utcOffset=+7)]
+[(http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nugraha-a&theme=dark)]
+[(http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nugraha-a&theme=dark)]
+[(https://streak-stats.demolab.com/?user=nugraha-a&theme=dark)]
 
 ## 🔎 Find me here on the interwebs
 <span id="find-me">&nbsp;</span>
