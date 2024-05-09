@@ -14,9 +14,9 @@ From Indonesia, work anywhere place as freelance, I help Companies or Personal t
 
 ## 🔎 Find me here on the interwebs
 <span id="find-me">&nbsp;</span>
-[<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/nugraha.alt/)
-[<img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:annug.dev@gmail.com)
-[<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/alditiya-nugraha)
+[<img alt="Instagram" src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/nugraha.alt/)
+[<img alt="GMAIL" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:annug.dev@gmail.com)
+[<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/alditiya-nugraha)
 
 ## ⚡ Github stats
 <div align="center">
