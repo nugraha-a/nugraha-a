@@ -1,4 +1,5 @@
 ##
+`
 <div align="center">
   <h3>👋 Hello, I'm Nugraha</h3>
   Work anywhere place as freelance, I help Companies or Personal to fulfill their desires
@@ -6,6 +7,7 @@
   <br>🌐 Open for freelance/part-time/project **opportunities**, Contact me bellow!
   <br><a href="https://www.linkedin.com/in/alditiya-nugraha/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
+
 ##
 <div align="center">
 
