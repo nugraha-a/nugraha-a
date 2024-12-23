@@ -2,7 +2,8 @@
 Work anywhere place as freelance, I help Companies or Personal to fulfill their desires
 
 - 🔭 Currently Working Full-Time as a **Fullstack Web Developer**
-- 🌐 Open for freelance/part-time/project **opportunities**. Contact me on [<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/alditiya-nugraha/)!
+- 🌐 Open for freelance/part-time/project **opportunities**. Contact me bellow!
+[<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/alditiya-nugraha/)
 
 ##
 <div align="center">
