@@ -6,7 +6,6 @@
   <br>🌐 Open for freelance/part-time/project **opportunities**, Contact me bellow!
   <br><a href="https://www.linkedin.com/in/alditiya-nugraha/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
-
 ##
 <div align="center">
 
