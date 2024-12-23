@@ -4,7 +4,7 @@ Work anywhere place as freelance, I help Companies or Personal to fulfill their 
 - 🔭 Currently Working Full-Time as a **Fullstack Web Developer**
 - 🌐 Open for freelance/part-time/project **opportunities**. Contact me on [<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/alditiya-nugraha/)!
 
-## ⚡ Github stats
+##
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nugraha-a&theme=transparent)
