@@ -17,7 +17,7 @@
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nugraha-a&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nugraha-a&theme=transparent) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nugraha-a&theme=transparent&mode=weekly&card_width=500&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nugraha-a&theme=transparent&mode=weekly&card_width=500&hide_border=true)](https://git.io/streak-stats)
 </div>
 <!--
 ![banner](https://raw.githubusercontent.com/nugraha-a/nugraha-a/master/assets/github-header-image.png)
