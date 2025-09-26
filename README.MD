@@ -1,6 +1,6 @@
 ##
 
-<div align="right">
+<div align="center">
   <h3>👋 Hello, I'm Nugraha</h3>
   Work anywhere place as freelance, I help Companies or Personal to fulfill their desires
   <br>🔭 Currently Working Full-Time as a <strong>Fullstack Web Developer</strong>
