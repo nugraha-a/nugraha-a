@@ -3,7 +3,7 @@
 <div align="center">
   <h3>👋 Hello, I'm Nugraha</h3>
   Work anywhere place as freelance, I help Companies or Personal to fulfill their desires
-  <br>🔭 Currently Working Full-Time as a <strong>Fullstack Web Developer</strong>
+  <br>🔭 Currently Working Full-Time as a <strong>IT Operation & Software Engineer</strong>
   <br>🌐 Open for freelance/part-time/project <strong>opportunities</strong>, Contact me bellow!
   <br><a href="https://www.linkedin.com/in/alditiya-nugraha/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
